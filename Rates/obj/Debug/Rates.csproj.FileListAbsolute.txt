@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\ExchangeRates\Rates\bin\Debug\Rates.exe.config
+C:\Users\User\source\repos\ExchangeRates\Rates\bin\Debug\Rates.exe
+C:\Users\User\source\repos\ExchangeRates\Rates\bin\Debug\Rates.pdb
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\Rates.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\Rates_MarkupCompile.cache
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\Rates_MarkupCompile.lref
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\Rates.g.resources
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\Rates.Properties.Resources.resources
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\Rates.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\Rates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\Rates.exe
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\Rates.pdb
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\InfoPages.g.cs
+C:\Users\User\source\repos\ExchangeRates\Rates\obj\Debug\InfoPages.baml
